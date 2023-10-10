@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Tanish.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Burrito.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: Soccer, Swimming, PC Games.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: Maroon5.
 
